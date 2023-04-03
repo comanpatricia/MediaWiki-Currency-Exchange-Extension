@@ -1,0 +1,14 @@
+{
+    "name": "CurrencyExchange",
+    "version": "1.0.0",
+    "author": "Coman Patricia",
+    "url": "https://github.com/comanpatricia/mediawiki",
+    "descriptionmsg": "A page that displays currency exchange rates for the USD/CZK, EUR/CZK and GBP/CZK pairs.",
+    "license-name": "MIT",
+    "dependencies": {
+        "mediawiki": ">=1.35.0",
+        "php": ">=7.4",
+        "vue": "^2.6.14"
+    },
+    "manifest_version": 2
+}
