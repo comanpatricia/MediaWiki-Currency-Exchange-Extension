@@ -10,7 +10,7 @@ curl_setopt_array($curl, array(
   CURLOPT_URL => "https://api.apilayer.com/fixer/latest?symbols=USD,GBP,EUR&base=CZK",
   CURLOPT_HTTPHEADER => array(
     "Content-Type: text/plain",
-    "apikey: bzYMd3nEWSDonmzeo2kfLP2mHKf5KtTI"
+    "apikey: XXXXXXXXXXXXX"
   ),
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => "",
