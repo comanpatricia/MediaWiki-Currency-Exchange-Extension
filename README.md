@@ -12,4 +12,4 @@ Also, check if the extension is available in the Special:Versions section like b
 ![alt text](https://user-images.githubusercontent.com/72436614/229586865-83063982-4a4b-4567-8be6-717bf5a377dc.PNG)
 
 
-For the currency exchange rates I used an public API from https://apilayer.com/marketplace.
+For the currency exchange rates I used a public API from https://apilayer.com/marketplace.
